@@ -1,0 +1,9 @@
+package delectable.menu;
+
+import java.util.Map;
+
+public class Storge {
+	
+	public static Map<Long, Menu> Menu menu = new HashMap<>();
+
+}

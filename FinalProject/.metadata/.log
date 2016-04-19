@@ -44,3 +44,9 @@ Binding(ALT+SHIFT+D R,
 		,,true),null),
 	org.eclipse.ui.defaultAcceleratorConfiguration,
 	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-04-19 11:11:52.409
+!MESSAGE cacheFile=file:/home/zelda/eclipse/java-mars2/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
+
+!ENTRY org.eclipse.wst.server.discovery 1 0 2016-04-19 11:12:09.091
+!MESSAGE cacheFile=file:/home/zelda/eclipse/java-mars2/eclipse/configuration/org.eclipse.wst.server.discovery/serverAdapterSitesDetails.xml
