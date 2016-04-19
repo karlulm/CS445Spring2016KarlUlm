@@ -5,7 +5,7 @@ import java.util.List;
 
 public class Menu {
 	
-	private int id;
+	private long id;
 	private String name;
 	private double pricePerPerson;
 	private int minimum_order;
@@ -17,13 +17,14 @@ public class Menu {
 		
 	}
 	
-	public Menu(String name,double pricePerPerson,int minimum_order, List<String> catagory){
+	public Menu(String name,double pricePerPerson,int minimum_order ){
 		
 //		this.id =
 		this.name = name;
 		this.pricePerPerson = pricePerPerson;
 		this.minimum_order =  minimum_order;
 //		this.catagory =
+		//  List<String> catagory
 		this.create_Day = new Date();
 		this.last_modified_date = new Date();
 		
@@ -32,10 +33,10 @@ public class Menu {
 	
 	
 	
-	public int getId() {
+	public long getId() {
 		return id;
 	}
-	public void setId(int id) {
+	public void setId(long id) {
 		this.id = id;
 	}
 	public String getName() {
