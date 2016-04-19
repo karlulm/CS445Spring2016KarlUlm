@@ -1,0 +1,11 @@
+package delectable.menuResources;
+
+import delectable.menu.MenuServices;
+
+public class MenuResources {
+	
+	MenuServices menuServie = new MenuServices();
+	
+	
+
+}

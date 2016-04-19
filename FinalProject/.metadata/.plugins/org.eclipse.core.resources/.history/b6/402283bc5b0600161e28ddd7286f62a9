@@ -1,0 +1,32 @@
+package delectable.menu;
+
+import java.util.Map;
+
+public class MenuServices {
+	
+	private Map<Long, Menu> menu = MenuStorge.getMenu();
+	
+	public Map<Long, Menu> getAllMenu(){
+		return menu;
+	}
+	
+	public Menu getMenu(long id){
+		return menu.get(id);
+	}
+	
+	public Menu addMenuItem(Menu menu1){
+		menu1.setId(menu.size()+1);
+		menu.put(menu1.getId(), menu1);
+		return menu1;
+	}
+	
+	public Menu updateMenu(Menu menu1){		
+		if( menu1.getId() <= 0){
+			return null;
+		}
+		
+		menu.put(menu1.getId(),menu1);
+		return menu1;
+	}
+
+}

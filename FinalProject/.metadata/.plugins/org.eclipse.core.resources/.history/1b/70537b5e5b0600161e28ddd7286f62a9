@@ -1,0 +1,23 @@
+package delectable.menuResources;
+
+import java.util.List;
+
+import javax.ws.rs.*;
+import javax.ws.rs.core.MediaType;
+
+import delectable.menu.Menu;
+import delectable.menu.MenuServices;
+
+
+@Path("/menu")
+public class MenuResources {
+	
+	MenuServices menuServies = new MenuServices();
+	
+	@GET
+	@Produces(MediaType.APPLICATION_XML)
+	public List<Menu> getMenu(){
+		return menuServies.getMenu();
+	}
+
+}
