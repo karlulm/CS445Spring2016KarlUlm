@@ -1,5 +1,6 @@
 package delectable.menu;
 
+import java.util.ArrayList;
 import java.util.Date;
 import java.util.List;
 
@@ -17,21 +18,17 @@ public class Menu {
 		
 	}
 	
-	public Menu(String name,double pricePerPerson,int minimum_order ){
+	public Menu(String name,double pricePerPerson,int minimum_order, List<String> catagory){
 		
-//		this.id =
+		
 		this.name = name;
 		this.pricePerPerson = pricePerPerson;
 		this.minimum_order =  minimum_order;
-//		this.catagory =
-		//  List<String> catagory
+		this.catagory = catagory;
 		this.create_Day = new Date();
 		this.last_modified_date = new Date();
 		
 	}
-	
-	
-	
 	
 	public long getId() {
 		return id;

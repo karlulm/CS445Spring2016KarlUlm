@@ -21,14 +21,6 @@ public class MenuResources {
 		return menuServies.getAllMenu();
 	}
 	
-	@POST
-	@Consumes(MediaType.APPLICATION_JSON)	
-	@Produces(MediaType.APPLICATION_JSON)
-	public Menu addMenuItem(Menu menu){
-		return menuServies.addMenuItem(menu);
-	}
-	
-	
 	@GET
 	@Path("{MenuId}")
 	@Produces(MediaType.APPLICATION_JSON)
