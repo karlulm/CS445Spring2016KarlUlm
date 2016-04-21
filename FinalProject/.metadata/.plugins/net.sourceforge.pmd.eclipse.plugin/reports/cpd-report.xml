@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pmd-cpd>
+   <duplication lines="11" tokens="26">
+      <file line="29"
+            path="/home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/main/java/delectable/Customer/Customer.java"/>
+      <file line="26"
+            path="/home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/main/java/delectable/menu/Catagory.java"/>
+      <codefragment><![CDATA[	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getEmail() {]]></codefragment>
+   </duplication>
+   <duplication lines="11" tokens="25">
+      <file line="29"
+            path="/home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/main/java/delectable/Customer/Customer.java"/>
+      <file line="47"
+            path="/home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/main/java/delectable/menu/Menu.java"/>
+      <file line="26"
+            path="/home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/main/java/delectable/menu/Catagory.java"/>
+      <codefragment><![CDATA[	}
+
+	public String getName() {
+		return name;
+	}
+
+	public void setName(String name) {
+		this.name = name;
+	}
+
+	public String getEmail() {]]></codefragment>
+   </duplication>
+</pmd-cpd>

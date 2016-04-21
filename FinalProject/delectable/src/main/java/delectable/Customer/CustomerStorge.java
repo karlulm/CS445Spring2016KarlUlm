@@ -12,9 +12,5 @@ public class CustomerStorge {
 		return customer;
 	}
 	
-	public Customer addCustomer(Customer customer1){
-		customer1.setCustomerId(customer.size()+1);
-		customer.put(customer1.getCustomerId(), customer1);
-		return customer1;
-	}	
+
 }
