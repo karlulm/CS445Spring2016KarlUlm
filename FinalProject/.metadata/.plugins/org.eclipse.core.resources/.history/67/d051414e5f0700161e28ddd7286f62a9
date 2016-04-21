@@ -1,0 +1,25 @@
+package delectable.Customer;
+
+import java.util.Date;
+import java.util.HashMap;
+import java.util.Map;
+
+import delectable.menu.Menu;
+
+public class CustomerStorge {
+	
+	public static Map<Long, Customer> customer = new HashMap<>();
+	
+	
+	public static Map<Long, Customer> getCustomer(){
+		return customer;
+	}
+	
+	public Customer addCustomer(Customer customer1){
+
+		customer1.setCustomerId(customer.size()+1);
+		customer.put(customer1.getCustomerId(), customer1);
+		return customer1;
+	}
+	
+}

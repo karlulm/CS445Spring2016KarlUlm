@@ -1,0 +1,16 @@
+package delectable.menu;
+
+public class Catagory {
+	
+	int catagoryId;
+	String body;
+	
+	
+	public Catagory(){
+		
+	}
+
+	public Catagory(int catId, String body){
+		this
+	}
+}

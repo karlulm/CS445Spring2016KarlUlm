@@ -1,0 +1,21 @@
+package delectable.order;
+
+import java.util.List;
+
+import javax.ws.rs.GET;
+import javax.ws.rs.Produces;
+import javax.ws.rs.core.MediaType;
+
+import delectable.menu.Menu;
+
+public class OrderResources {
+	
+	OrderServices orderServe = new OrderServices();
+	
+	@GET
+	@Produces(MediaType.APPLICATION_JSON)
+	public List<Order> getOrder(){
+		return orderServe.getAllOrders();
+	}
+
+}

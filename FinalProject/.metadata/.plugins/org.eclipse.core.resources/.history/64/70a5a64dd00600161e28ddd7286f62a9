@@ -1,0 +1,13 @@
+package delectable.order;
+
+import java.util.Map;
+
+
+public class OrderServices {
+	
+	private Map<Long, Order> menu = OrderStorge.getOrder();
+	
+	
+	
+
+}

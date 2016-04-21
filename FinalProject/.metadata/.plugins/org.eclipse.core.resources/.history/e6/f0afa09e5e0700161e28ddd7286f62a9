@@ -1,0 +1,19 @@
+package delectable.Customer;
+
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import delectable.menu.Menu;
+
+public class CustomerStorge {
+	
+	public static Map<Long, Customer> customer = new HashMap<>();
+	
+	
+	public static Map<Long, Customer> getCustomer(){
+		return customer;
+	}
+	
+}

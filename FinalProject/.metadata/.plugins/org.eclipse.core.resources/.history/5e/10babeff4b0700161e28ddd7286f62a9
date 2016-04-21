@@ -1,0 +1,80 @@
+package delectable.menu;
+
+import java.util.ArrayList;
+import java.util.Date;
+import java.util.List;
+
+public class Menu {
+	
+	private long id;
+	private String name;
+	private double pricePerPerson;
+	private int minimum_order;
+	private Catagory catagory;
+	private Date create_Day;
+	private Date last_modified_date;
+	
+	public Menu(){
+		
+	}
+	
+	public Menu(String name,double pricePerPerson,int minimum_order, Catagory myCatagory){
+		
+		
+		this.name = name;
+		this.pricePerPerson = pricePerPerson;
+		this.minimum_order =  minimum_order;
+		this.catagory = myCatagory;
+		this.create_Day = new Date();
+		this.last_modified_date = new Date();
+		
+	}
+	
+	public long getId() {
+		return id;
+	}
+	public void setId(long id) {
+		this.id = id;
+	}
+	public String getName() {
+		return name;
+	}
+	public void setName(String name) {
+		this.name = name;
+	}
+	public double getPricePerPerson() {
+		return pricePerPerson;
+	}
+	public void setPricePerPerson(double pricePerPerson) {
+		this.pricePerPerson = pricePerPerson;
+	}
+	public int getMinimum_order() {
+		return minimum_order;
+	}
+	public void setMinimum_order(int minimum_order) {
+		this.minimum_order = minimum_order;
+	}
+	public Catagory getCatagory() {
+		return catagory;
+	}
+	public void setCatagory(Catagory catagory) {
+		this.catagory = catagory;
+	}
+	public Date getCreate_Day() {
+		return create_Day;
+	}
+	public void setCreate_Day(Date create_Day) {
+		this.create_Day = create_Day;
+	}
+	public Date getLast_modified_date() {
+		return last_modified_date;
+	}
+	public void setLast_modified_date(Date last_modified_date) {
+		this.last_modified_date = last_modified_date;
+	}
+	
+	
+	
+	
+
+}

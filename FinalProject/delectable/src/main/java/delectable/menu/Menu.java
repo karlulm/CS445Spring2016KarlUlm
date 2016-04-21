@@ -1,8 +1,7 @@
 package delectable.menu;
 
-import java.util.ArrayList;
 import java.util.Date;
-import java.util.List;
+import java.util.Map;
 
 public class Menu {
 	
@@ -10,7 +9,7 @@ public class Menu {
 	private String name;
 	private double pricePerPerson;
 	private int minimum_order;
-	private List<String> catagory;
+	private Map<String, String> catagory;
 	private Date create_Day;
 	private Date last_modified_date;
 	
@@ -18,16 +17,26 @@ public class Menu {
 		
 	}
 	
-	public Menu(String name,double pricePerPerson,int minimum_order, List<String> catagory){
+	public Menu(String name,double pricePerPerson,int minimum_order, Map<String, String> myCatagory){
 		
 		
 		this.name = name;
 		this.pricePerPerson = pricePerPerson;
 		this.minimum_order =  minimum_order;
-		this.catagory = catagory;
+		this.catagory = myCatagory;
 		this.create_Day = new Date();
 		this.last_modified_date = new Date();
+	}
+	
+	public Menu(String name,double pricePerPerson,int minimum_order){
 		
+		
+		this.name = name;
+		this.pricePerPerson = pricePerPerson;
+		this.minimum_order =  minimum_order;
+
+		this.create_Day = new Date();
+		this.last_modified_date = new Date();
 	}
 	
 	public long getId() {
@@ -54,10 +63,10 @@ public class Menu {
 	public void setMinimum_order(int minimum_order) {
 		this.minimum_order = minimum_order;
 	}
-	public List<String> getCatagory() {
+	public Map<String, String> getCatagory() {
 		return catagory;
 	}
-	public void setCatagory(List<String> catagory) {
+	public void setCatagory(Map<String, String> catagory) {
 		this.catagory = catagory;
 	}
 	public Date getCreate_Day() {

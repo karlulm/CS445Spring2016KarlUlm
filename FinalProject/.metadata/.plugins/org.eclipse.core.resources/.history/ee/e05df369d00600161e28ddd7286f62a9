@@ -1,0 +1,19 @@
+package delectable.order;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Map;
+
+
+public class OrderServices {
+	
+	private Map<Long, Order> order = OrderStorge.getOrder();
+	
+	public List<Order> getAllOrders(){	
+		return new ArrayList<Order>(order.values());
+	}
+	
+	
+	
+
+}
