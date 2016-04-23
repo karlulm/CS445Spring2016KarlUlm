@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="delectable.Customer.Customer"/>
+<fullyQualifiedTypeName name="delectable.order.Order"/>
+<fullyQualifiedTypeName name="delectable.menu.Menu"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="java.text.DateFormat"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="delectable.delectable.MyResource"/>
+<fullyQualifiedTypeName name="delectable.delectable.Admin"/>
+<fullyQualifiedTypeName name="delectable.order.OrderServices"/>
+<fullyQualifiedTypeName name="delectable.order.OrderStorge"/>
 <fullyQualifiedTypeName name="delectable.Customer.CustomerServices"/>
+<fullyQualifiedTypeName name="delectable.menu.MenuServices"/>
+<fullyQualifiedTypeName name="javax.ws.rs.POST"/>
 </qualifiedTypeNameHistroy>
