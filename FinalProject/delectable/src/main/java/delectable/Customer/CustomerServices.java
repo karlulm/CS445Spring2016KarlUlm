@@ -36,7 +36,6 @@ public class CustomerServices {
 			String RealName = customer.getName().toString();
 		
 			if (name.equals(RealName)){
-				System.out.println("Got it");
 				customerForThisName.add(customer);
 			}
 		}

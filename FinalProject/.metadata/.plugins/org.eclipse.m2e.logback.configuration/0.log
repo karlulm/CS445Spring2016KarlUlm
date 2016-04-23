@@ -839,3 +839,228 @@
 2016-04-21 02:53:06,270 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
 2016-04-21 02:59:34,730 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
 2016-04-21 03:04:59,328 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-04-21 15:59:21,719 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is not out-of-date. No remote download required.
+2016-04-22 22:47:26,154 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 22:47:26,159 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 22:47:26,162 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 22:47:26,346 [Worker-337] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 08:42:40,883 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 08:42:40,997 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 08:42:40,998 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 08:42:40,999 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 08:46:43,172 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 08:46:43,172 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 08:46:43,173 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 08:46:43,174 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 08:54:34,497 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 08:54:34,497 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 08:54:34,499 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 08:54:34,499 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 08:57:48,268 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 08:57:48,268 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 08:57:48,269 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 08:57:48,269 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:01:23,444 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:01:23,444 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:01:23,445 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:01:23,445 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:02:41,423 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:02:41,424 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:02:41,426 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:02:41,426 [Worker-449] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:04:21,637 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:04:21,637 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:04:21,638 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:04:21,638 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:05:32,659 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:05:32,660 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:05:32,665 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:05:32,665 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:06:14,630 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:06:14,631 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:06:14,632 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:06:14,632 [Worker-448] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:33:21,777 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:33:21,777 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:33:21,778 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:33:21,778 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:40:23,717 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:40:23,717 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:40:23,718 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:40:23,719 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:42:51,378 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:42:51,380 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:42:51,381 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:42:51,382 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:44:37,122 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:44:37,123 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:44:37,124 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:44:37,124 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:45:46,909 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:45:46,909 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:45:46,910 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:45:46,910 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:48:04,431 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:48:04,431 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:48:04,432 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:48:04,433 [Worker-446] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:49:26,989 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:49:26,990 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:49:26,991 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:49:26,991 [Worker-444] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:50:03,975 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:50:03,975 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:50:03,978 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:50:03,979 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 09:53:43,451 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:53:43,452 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 09:53:43,453 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 09:53:43,453 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 10:00:38,165 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:00:38,165 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 10:00:38,166 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:00:38,166 [Worker-450] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 10:02:45,485 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:02:45,485 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 10:02:45,486 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:02:45,486 [Worker-452] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 10:05:33,842 [Worker-454] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:05:33,842 [Worker-454] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 10:05:33,845 [Worker-454] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:05:33,846 [Worker-454] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 10:06:17,724 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:06:17,724 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 10:06:17,725 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:06:17,725 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 10:07:11,586 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:07:11,586 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 10:07:11,587 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:07:11,588 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 10:07:14,551 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:07:14,552 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 10:07:14,554 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:07:14,554 [Worker-443] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 10:07:18,547 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:07:18,547 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 10:07:18,549 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 10:07:18,549 [Worker-453] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 13:30:57,882 [Worker-455] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 13:30:57,883 [Worker-455] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 13:30:57,883 [Worker-455] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 13:30:57,884 [Worker-455] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 13:58:15,475 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 13:58:15,476 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 13:58:15,479 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 13:58:15,479 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 14:43:48,556 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 14:43:48,556 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 14:43:48,557 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 14:43:48,557 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 14:47:54,471 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 14:47:54,472 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 14:47:54,473 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 14:47:54,473 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 14:53:18,996 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 14:53:18,996 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 14:53:18,997 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 14:53:18,997 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:05:40,243 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:05:40,243 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:05:40,245 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:05:40,245 [Worker-467] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:12:39,741 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:12:39,741 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:12:39,742 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:12:39,742 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:14:55,693 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:14:55,694 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:14:55,695 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:14:55,695 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:23:08,050 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:23:08,051 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:23:08,052 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:23:08,052 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:24:01,106 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:24:01,106 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:24:01,108 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:24:01,108 [Worker-447] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:26:50,736 [Worker-464] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:26:50,736 [Worker-464] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:26:50,737 [Worker-464] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:26:50,738 [Worker-464] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:31:20,803 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:31:20,803 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:31:20,804 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:31:20,804 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:35:29,808 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:35:29,808 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:35:29,809 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:35:29,809 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:36:32,925 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:36:32,925 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:36:32,926 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:36:32,926 [Worker-468] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:53:26,875 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:53:26,876 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:53:26,878 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:53:26,878 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:54:22,205 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:54:22,206 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:54:22,207 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:54:22,207 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:55:41,411 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:55:41,412 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:55:41,413 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:55:41,413 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:56:37,908 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:56:37,908 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:56:37,909 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:56:37,909 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:58:24,673 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:58:24,674 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:58:24,674 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:58:24,674 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 15:59:51,894 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:59:51,894 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 15:59:51,895 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 15:59:51,895 [Worker-465] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 16:01:32,673 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:01:32,673 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 16:01:32,674 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:01:32,674 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 16:02:46,608 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:02:46,609 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 16:02:46,611 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:02:46,611 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 16:12:30,372 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:12:30,373 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 16:12:30,374 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:12:30,374 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 16:13:32,492 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:13:32,493 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 16:13:32,493 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:13:32,494 [Worker-466] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 16:14:28,564 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:14:28,564 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 16:14:28,565 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:14:28,565 [Worker-469] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 16:27:39,487 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:27:39,487 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 16:27:39,488 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:27:39,488 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 16:27:42,071 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:27:42,072 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 16:27:42,072 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:27:42,072 [Worker-471] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 16:28:15,789 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:28:15,791 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 16:28:15,793 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:28:15,793 [Worker-470] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 16:29:35,194 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:29:35,194 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 16:29:35,195 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:29:35,195 [Worker-462] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources
+2016-04-23 16:32:01,043 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:32:01,043 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-23 16:32:01,045 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-23 16:32:01,045 [Worker-460] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/zelda/Documents/School/Spring2016/CS445/CS445Spring2016/FinalProject/delectable/src/test/resources

@@ -5,7 +5,7 @@ import java.util.Date;
 public class Order {
 	
 	
-	int id;
+	long id;
 	String order_date;
   	String delivery_date;
   	double amount;
@@ -17,7 +17,7 @@ public class Order {
   		
   	}
   	
-  	public Order(int id, String order_date, String delivery_date, double amount, int surcharge, String status, String ordered_by){
+  	public Order(long id, String order_date, String delivery_date, double amount, int surcharge, String status, String ordered_by){
   		this.id = id;
   		this.order_date = order_date;
   		this.delivery_date = delivery_date;
@@ -30,11 +30,11 @@ public class Order {
   	
   	
 
-	public int getId() {
+	public long getId() {
 		return id;
 	}
 
-	public void setId(int id) {
+	public void setId(long id) {
 		this.id = id;
 	}
 

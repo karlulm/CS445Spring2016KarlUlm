@@ -1,0 +1,91 @@
+import static org.junit.Assert.*;
+
+import java.util.Map;
+
+import org.junit.Test;
+
+import delectable.Customer.Customer;
+import delectable.Customer.CustomerStorge;
+import delectable.order.Order;
+
+public class TestmyProject {
+
+	Customer newCustomer = new Customer("John Doe", "hawks@hawk.iit.edu", "6307779999");
+	Customer newNewCustomer = new Customer();
+	
+	@Test
+	public void CustomerGetName() {
+		assertEquals(newCustomer.getName(), "John Doe");
+	}
+	
+	@Test
+	public void CustomerGetEmail() {
+		assertEquals(newCustomer.getEmail(), "hawks@hawk.iit.edu");
+	}
+	
+	@Test
+	public void CustomerGetPhone() {
+		assertEquals(newCustomer.getPhone(), "6307779999");
+	}
+	
+	@Test
+	public void CustomerSetName() {
+		newCustomer.setName("Doe John");
+		assertEquals(newCustomer.getName(), "Doe John");
+	}
+	
+	@Test
+	public void CustomerSetEmail() {
+		newCustomer.setEmail("DoeJohn@hawk.iit.edu");
+		assertEquals(newCustomer.getEmail(), "DoeJohn@hawk.iit.edu");
+	}
+	
+	@Test
+	public void CustomerSetId() {
+		newCustomer.setCustomerId(42);
+		assertEquals(newCustomer.getCustomerId(),42);
+	}
+	
+	@Test
+	public void CustomerSetPhone() {
+		newCustomer.setPhone("6331254568");
+		assertEquals(newCustomer.getPhone(),"6331254568");
+	}
+	
+	Order newOrder = new Order(42, "05-23-2016", "06-25-2016", 25.56, 0, "Processing", "kulm@hawk.iit.edu");
+	
+	@Test
+	public void OrderGetID(){
+		assertEquals(newOrder.getId() ,42);
+	}
+	
+	@Test
+	public void OrderGetPurchaseDate(){
+		assertEquals(newOrder.getOrder_date() ,"05-23-2016");
+	}
+	
+	@Test
+	public void OrderGetDelivaryDate(){
+		assertEquals(newOrder.getDelivery_date() ,"06-25-2016");
+	}
+	
+	@Test
+	public void OrderGetAmount(){
+		assertEquals(newOrder.getAmount() ,25.56);
+	}
+	
+	@Test
+	public void OrderGetSurCharge(){
+		assertEquals(newOrder.getSurcharge(),0 );
+	}
+	
+	@Test
+	public void OrderGetStatus(){
+		assertEquals(newOrder.getStatus(),"Processing" );
+	}
+	
+
+
+
+	
+}

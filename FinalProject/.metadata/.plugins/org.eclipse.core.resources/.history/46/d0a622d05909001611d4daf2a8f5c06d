@@ -1,0 +1,15 @@
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import delectable.Customer.Customer;
+
+public class TestmyProject {
+
+	@Test
+	public void CreateCustomer() {
+		Customer newCustomer = new Customer("John Doe", "hawks@hawk.iit.edu", "6307779999");
+		assertEquals(newCustomer.getName(), "John Doe");
+	}
+
+}

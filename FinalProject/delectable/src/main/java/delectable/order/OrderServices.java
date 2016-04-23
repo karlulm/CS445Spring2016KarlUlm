@@ -10,7 +10,6 @@ public class OrderServices {
 	private Map<Long, Order> order = OrderStorge.getOrder();
 	
 	public OrderServices(){
-		order.put(1L, new Order(24601, "Sun 2004.07.18 at 04:14:09 PM" , "Sun 2004.07.18 at 04:14:09 PM", 69.69, 0, "open", "stig" ));
 		
 	}
 	
@@ -20,6 +19,10 @@ public class OrderServices {
 
 	public Order getOrder(long id) {
 		return order.get(id);
+	}
+	
+	public Order addOrder(Order order1){
+		return(order.put(order1.getId(), order1));
 	}
 	
 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestmyProject" project="delectable" tests="7" started="7" failures="0" errors="0" ignored="0">
+  <testsuite name="TestmyProject" time="0.0">
+    <testcase name="CustomerSetName" classname="TestmyProject" time="0.0"/>
+    <testcase name="CustomerSetId" classname="TestmyProject" time="0.0"/>
+    <testcase name="CustomerGetName" classname="TestmyProject" time="0.0"/>
+    <testcase name="CustomerSetEmail" classname="TestmyProject" time="0.0"/>
+    <testcase name="CustomerSetPhone" classname="TestmyProject" time="0.0"/>
+    <testcase name="CustomerGetEmail" classname="TestmyProject" time="0.0"/>
+    <testcase name="CustomerGetPhone" classname="TestmyProject" time="0.0"/>
+  </testsuite>
+</testrun>

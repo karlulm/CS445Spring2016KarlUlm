@@ -1,0 +1,31 @@
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+import delectable.Customer.Customer;
+
+public class TestmyProject {
+
+	Customer newCustomer = new Customer("John Doe", "hawks@hawk.iit.edu", "6307779999");
+	
+	@Test
+	public void CustomerGetName() {
+		assertEquals(newCustomer.getName(), "John Doe");
+	}
+	
+	@Test
+	public void CustomerGetEmail() {
+		assertEquals(newCustomer.getEmail(), "hawks@hawk.iit.edu");
+	}
+	
+	@Test
+	public void CustomerGetPhone() {
+		assertEquals(newCustomer.getPhone(), "6307779999");
+	}
+	
+	@Test
+	public void CustomerGetCustID() {
+		assertEquals(newCustomer.getCustomerId(), 1);
+	}
+
+}
